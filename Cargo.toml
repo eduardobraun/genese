@@ -3,5 +3,9 @@ name = "genese"
 version = "0.1.0"
 authors = ["Eduardo Braun <eduardo@rushers.org>"]
 edition = "2018"
+description = "Genese is a set of tools to create a new world."
+license = "MIT"
+keywords = ["genese", "world", "procedural", "generation"]
+categories = ["simulation"]
 
 [dependencies]
