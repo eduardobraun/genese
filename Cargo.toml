@@ -8,4 +8,10 @@ license = "MIT"
 keywords = ["genese", "world", "procedural", "generation"]
 categories = ["simulation"]
 
+[[bin]]
+name = "mapviewer"
+src = "src/bin/mapviewer/main.rs"
+
 [dependencies]
+# temporary
+tcod = "0.15"
